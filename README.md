@@ -1,0 +1,1 @@
+# dingo-mvn-artifact-repo
